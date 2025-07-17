@@ -1,0 +1,10 @@
+.project
+.DS_Store
+_site
+.sass-cache
+.jekyll-metadata
+.swp
+.hugo_build.lock
+content.PENDING
+public
+resources/_gen
