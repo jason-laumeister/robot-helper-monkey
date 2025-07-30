@@ -1,2 +1,2 @@
 # robot-helper-monkey
-home of robot monkey helper
+home of the marginally known robot monkey helper

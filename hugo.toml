@@ -1,5 +1,9 @@
 title = 'Robot Helper Monkey'
 baseURL = 'https://robothelpermonkey.com'
+
+# if Copyright not set, then title is used
+Copyright = 'Jason Laumeister'
+
 languageCode = 'en-us'
 preserveTaxonomyNames = true
 
